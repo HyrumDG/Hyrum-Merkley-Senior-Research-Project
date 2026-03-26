@@ -1,1 +1,3 @@
 # Hyrum-Merkley-Senior-Research-Project
+
+This project's objective is to create and test two web scraping methods to observe tradeoffs in the program. The idea is to use websites that have well defined tags to find a part of the page that contains better information than the rest of the page, allowing better data to be extracted for research. Tradeoffs that will be observed are time efficiency and prevalence of keywords. The planned websites will be Dungeons and Dragons monster sheets on roll 20, as my knowledge of keywords in the subject allow me to better outline what is important, which can also prove how this method could be expounded to different subjects.
